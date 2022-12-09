@@ -25,4 +25,3 @@ switch($fingerNumber){
     default:
         echo("Не соблюдены условия");                  
 }
-?>
